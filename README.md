@@ -10,26 +10,7 @@
   <a href="https://www.youtube.com/@AbdullahAmeedAbduljabbar"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
 </p>
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**About me**
-
-- 3+ years of paid development: multiplayer systems, SQL persistence, client-server architecture
-- I build systems where correctness is the point: one owner per piece of state, explicit failure handling, verification against written requirements
-
-</td>
-<td width="50%" valign="top">
-
-**Right now**
-
-- Final year, BA (Hons) Computer Games Design, University of South Wales, on track for a First
-- Open to full-time Software Engineer roles in Cardiff, Bristol, London or remote
-
-</td>
-</tr>
-</table>
+<img src="./assets/about.svg" width="100%" alt="About me: 3+ years of paid development in multiplayer systems, SQL persistence and client-server; correctness first. Right now: final year BA (Hons) Computer Games Design at the University of South Wales, on track for a First; open to full-time Software Engineer roles in Cardiff, Bristol, London or remote.">
 
 <a href="https://www.abdullahabduljabbar.com/ABS"><img src="./assets/abs-flow.svg" width="100%" alt="ABS Financial Systems: payments flowing through orchestrator, ledger, risk engine, Pub/Sub, notification and analytics"></a>
 
@@ -132,32 +113,32 @@ flowchart LR
 
 <br>
 
-<h2 align="center">Tech stack</h2>
+<img src="./assets/h-stack.svg" width="100%" alt="Tech stack">
 
 <div align="center">
 <table>
 <tr>
-<td align="right" valign="middle"><b>Languages</b></td>
+<td align="right" valign="middle"><img src="./assets/stack-languages.svg" height="28" alt="Languages"></td>
 <td align="left" valign="middle"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL"></td>
 </tr>
 <tr>
-<td align="right" valign="middle"><b>Backend</b></td>
+<td align="right" valign="middle"><img src="./assets/stack-backend.svg" height="28" alt="Backend"></td>
 <td align="left" valign="middle"><img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></td>
 </tr>
 <tr>
-<td align="right" valign="middle"><b>Data and messaging</b></td>
+<td align="right" valign="middle"><img src="./assets/stack-data.svg" height="28" alt="Data and messaging"></td>
 <td align="left" valign="middle"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"> <img src="https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=flyway&logoColor=white" alt="Flyway"> <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery"> <img src="https://img.shields.io/badge/Pub%2FSub-4285F4?style=for-the-badge&logo=googlepubsub&logoColor=white" alt="Pub/Sub"></td>
 </tr>
 <tr>
-<td align="right" valign="middle"><b>Cloud and DevOps</b></td>
+<td align="right" valign="middle"><img src="./assets/stack-cloud.svg" height="28" alt="Cloud and DevOps"></td>
 <td align="left" valign="middle"><img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"> <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"></td>
 </tr>
 <tr>
-<td align="right" valign="middle"><b>Testing</b></td>
+<td align="right" valign="middle"><img src="./assets/stack-testing.svg" height="28" alt="Testing"></td>
 <td align="left" valign="middle"><img src="https://img.shields.io/badge/JUnit%205-25A162?style=for-the-badge&logo=junit5&logoColor=white" alt="JUnit 5"> <img src="https://img.shields.io/badge/Testcontainers-17A6B2?style=for-the-badge" alt="Testcontainers"></td>
 </tr>
 <tr>
-<td align="right" valign="middle"><b>Simulation</b></td>
+<td align="right" valign="middle"><img src="./assets/stack-simulation.svg" height="28" alt="Simulation"></td>
 <td align="left" valign="middle"><img src="https://img.shields.io/badge/Unreal%20Engine%205-313131?style=for-the-badge&logo=unrealengine&logoColor=white" alt="Unreal Engine 5"> <img src="https://img.shields.io/badge/MATLAB%20%2F%20Simulink-E16737?style=for-the-badge" alt="MATLAB / Simulink"> <img src="https://img.shields.io/badge/DIS%20%2F%20DDS%20%2F%20HLA-1f6feb?style=for-the-badge" alt="DIS / DDS / HLA"> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"></td>
 </tr>
 </table>
