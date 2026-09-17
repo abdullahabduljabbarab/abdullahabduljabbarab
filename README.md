@@ -31,7 +31,7 @@
 </tr>
 </table>
 
-## ABS Financial Systems
+<a href="https://www.abdullahabduljabbar.com/ABS"><img src="./assets/abs-flow.svg" width="100%" alt="ABS Financial Systems: payments flowing through orchestrator, ledger, risk engine, Pub/Sub, notification and analytics"></a>
 
 <table>
 <tr>
@@ -47,6 +47,9 @@ A distributed payments platform built around one authoritative double-entry ledg
 </td>
 </tr>
 </table>
+
+<details>
+<summary><b>Architecture and all 8 ABS repos</b></summary>
 
 ```mermaid
 flowchart LR
@@ -71,7 +74,11 @@ flowchart LR
 | [**analytics-service**](https://github.com/abdullahabduljabbarab/analytics-service) | BigQuery event history and CQRS projections that rebuild deterministically |
 | [**platform-infrastructure**](https://github.com/abdullahabduljabbarab/platform-infrastructure) | Terraform, Workload Identity Federation and least-privilege runtime identities |
 
-## CLEARANCE
+</details>
+
+<br>
+
+<a href="https://www.abdullahabduljabbar.com/CLEARANCE"><img src="./assets/clearance-radar.svg" width="100%" alt="CLEARANCE: animated radar scope with a rotating sweep revealing aircraft contacts"></a>
 
 <table>
 <tr>
@@ -87,6 +94,19 @@ A C++ / Unreal Engine 5 ATC and air-defence synthetic training simulator built a
 </td>
 </tr>
 </table>
+
+<table>
+<tr>
+<td width="33%" align="center" valign="top"><a href="https://youtu.be/kii0oPH0a2I"><img src="https://img.youtube.com/vi/kii0oPH0a2I/maxresdefault.jpg" alt="Final showcase"></a><br><sub><b>Final showcase</b> · 5 min</sub></td>
+<td width="33%" align="center" valign="top"><a href="https://youtu.be/trnNMP-3RLs"><img src="https://img.youtube.com/vi/trnNMP-3RLs/maxresdefault.jpg" alt="Full two-role playthrough"></a><br><sub><b>Full two-role playthrough</b> · 48 min</sub></td>
+<td width="33%" align="center" valign="top"><a href="https://youtu.be/25d2I24uIs4"><img src="https://img.youtube.com/vi/25d2I24uIs4/maxresdefault.jpg" alt="Every C++ system explained"></a><br><sub><b>Every C++ system explained</b> · 58 min</sub></td>
+</tr>
+</table>
+
+<p align="center"><sub>Deep dives: <a href="https://youtu.be/u7qeIkqkt4s">DIS + DDS + RTI Connext + HLA</a> · <a href="https://youtu.be/nqjFOimsYHw">Simulink subsystems live in UE5</a></sub></p>
+
+<details>
+<summary><b>Architecture and all 5 CLEARANCE repos</b></summary>
 
 ```mermaid
 flowchart LR
@@ -105,7 +125,11 @@ flowchart LR
 | [**radar-mbd**](https://github.com/abdullahabduljabbarab/radar-mbd) | Pulsed-radar DSP: LFM, MVDR beamforming, matched filter, range-Doppler, CA-CFAR |
 | [**missile-mbd**](https://github.com/abdullahabduljabbarab/missile-mbd) | 3-DOF proportional-navigation guidance model with generated C and documented limitations |
 
-## Tech stack
+</details>
+
+<br>
+
+<h2 align="center">Tech stack</h2>
 
 <p align="center">
  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge" alt="SQL">
