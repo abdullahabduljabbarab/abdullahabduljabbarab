@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 240" width="900" height="240" role="img" aria-label="ABS Financial Systems service flow animation">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1220"/><stop offset="1" stop-color="#0d1117"/></linearGradient>
+<pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#66D8D2" stroke-opacity="0.05"/></pattern>
+<filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="900" height="240" rx="14" fill="url(#bg)"/>
+<rect width="900" height="240" rx="14" fill="url(#grid)"/>
+<rect x="0.5" y="0.5" width="899" height="239" rx="14" fill="none" stroke="#66D8D2" stroke-opacity="0.25"/>
+<text x="32" y="56" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="34" font-weight="700" fill="#e6edf3" letter-spacing="2">ABS FINANCIAL SYSTEMS</text>
+<text x="32" y="82" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="15" fill="#66D8D2">One ledger owns the money. Everything else reacts.</text>
+<rect x="628" y="30" width="242" height="58" rx="10" fill="#3fb950" fill-opacity="0.07" stroke="#3fb950" stroke-opacity="0.45"/>
+<text x="644" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#8b949e">DR 100.00  CR 100.00</text>
+<text x="644" y="75" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#7ee787">Σ entries = 0.00 ✓<animate attributeName="fill-opacity" values="1;0.55;1" dur="2.4s" repeatCount="indefinite"/></text>
+<path id="e0" d="M182.0,160.0 C222.0,160.0 222.0,130.0 262.0,130.0" fill="none" stroke="#8b949e" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="4 4"/>
+<circle r="4" fill="#e3b341" filter="url(#glow)" opacity="0"><animateMotion dur="1.6s" begin="0.0s;e0p0.end+1.8s" id="e0p0" fill="freeze" rotate="auto"><mpath href="#e0"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.6s" begin="e0p0.begin"/></circle>
+<circle r="4" fill="#e3b341" filter="url(#glow)" opacity="0"><animateMotion dur="1.6s" begin="1.7s;e0p1.end+1.8s" id="e0p1" fill="freeze" rotate="auto"><mpath href="#e0"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.6s" begin="e0p1.begin"/></circle>
+<path id="e1" d="M182.0,160.0 C222.0,160.0 222.0,194.0 262.0,194.0" fill="none" stroke="#8b949e" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="4 4"/>
+<circle r="4" fill="#66D8D2" filter="url(#glow)" opacity="0"><animateMotion dur="1.6s" begin="0.6s;e1p0.end+1.8s" id="e1p0" fill="freeze" rotate="auto"><mpath href="#e1"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.6s" begin="e1p0.begin"/></circle>
+<circle r="4" fill="#66D8D2" filter="url(#glow)" opacity="0"><animateMotion dur="1.6s" begin="2.3s;e1p1.end+1.8s" id="e1p1" fill="freeze" rotate="auto"><mpath href="#e1"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.6s" begin="e1p1.begin"/></circle>
+<path id="e2" d="M392.0,130.0 C432.0,130.0 432.0,162.0 472.0,162.0" fill="none" stroke="#8b949e" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="4 4"/>
+<circle r="4" fill="#a371f7" filter="url(#glow)" opacity="0"><animateMotion dur="1.6s" begin="1.2s;e2p0.end+1.8s" id="e2p0" fill="freeze" rotate="auto"><mpath href="#e2"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.6s" begin="e2p0.begin"/></circle>
+<circle r="4" fill="#a371f7" filter="url(#glow)" opacity="0"><animateMotion dur="1.6s" begin="2.9s;e2p1.end+1.8s" id="e2p1" fill="freeze" rotate="auto"><mpath href="#e2"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.6s" begin="e2p1.begin"/></circle>
+<path id="e3" d="M392.0,194.0 C432.0,194.0 432.0,162.0 472.0,162.0" fill="none" stroke="#8b949e" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="4 4"/>
+<circle r="4" fill="#a371f7" filter="url(#glow)" opacity="0"><animateMotion dur="1.6s" begin="1.8s;e3p0.end+1.8s" id="e3p0" fill="freeze" rotate="auto"><mpath href="#e3"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.6s" begin="e3p0.begin"/></circle>
+<circle r="4" fill="#a371f7" filter="url(#glow)" opacity="0"><animateMotion dur="1.6s" begin="3.5s;e3p1.end+1.8s" id="e3p1" fill="freeze" rotate="auto"><mpath href="#e3"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.6s" begin="e3p1.begin"/></circle>
+<path id="e4" d="M582.0,162.0 C625.0,162.0 625.0,130.0 668.0,130.0" fill="none" stroke="#8b949e" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="4 4"/>
+<circle r="4" fill="#7ee787" filter="url(#glow)" opacity="0"><animateMotion dur="1.6s" begin="2.2s;e4p0.end+1.8s" id="e4p0" fill="freeze" rotate="auto"><mpath href="#e4"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.6s" begin="e4p0.begin"/></circle>
+<circle r="4" fill="#7ee787" filter="url(#glow)" opacity="0"><animateMotion dur="1.6s" begin="3.9s;e4p1.end+1.8s" id="e4p1" fill="freeze" rotate="auto"><mpath href="#e4"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.6s" begin="e4p1.begin"/></circle>
+<path id="e5" d="M582.0,162.0 C625.0,162.0 625.0,194.0 668.0,194.0" fill="none" stroke="#8b949e" stroke-opacity="0.35" stroke-width="1.5" stroke-dasharray="4 4"/>
+<circle r="4" fill="#7ee787" filter="url(#glow)" opacity="0"><animateMotion dur="1.6s" begin="2.8s;e5p0.end+1.8s" id="e5p0" fill="freeze" rotate="auto"><mpath href="#e5"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.6s" begin="e5p0.begin"/></circle>
+<circle r="4" fill="#7ee787" filter="url(#glow)" opacity="0"><animateMotion dur="1.6s" begin="4.5s;e5p1.end+1.8s" id="e5p1" fill="freeze" rotate="auto"><mpath href="#e5"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" dur="1.6s" begin="e5p1.begin"/></circle>
+<rect x="32" y="140" width="150" height="40" rx="8" fill="#161b22" stroke="#66D8D2" stroke-opacity="0.8"/>
+<text x="107.0" y="164.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#e6edf3" text-anchor="middle">Orchestrator</text>
+<rect x="262" y="112" width="130" height="36" rx="8" fill="#161b22" stroke="#e3b341" stroke-opacity="0.8" stroke-width="2"/>
+<text x="327.0" y="134.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#e6edf3" text-anchor="middle">Ledger</text>
+<rect x="262" y="176" width="130" height="36" rx="8" fill="#161b22" stroke="#66D8D2" stroke-opacity="0.8"/>
+<text x="327.0" y="198.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#e6edf3" text-anchor="middle">Risk Engine</text>
+<rect x="472" y="144" width="110" height="36" rx="8" fill="#161b22" stroke="#a371f7" stroke-opacity="0.8"/>
+<text x="527.0" y="166.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#e6edf3" text-anchor="middle">Pub/Sub</text>
+<rect x="668" y="112" width="200" height="36" rx="8" fill="#161b22" stroke="#66D8D2" stroke-opacity="0.8"/>
+<text x="768.0" y="134.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#e6edf3" text-anchor="middle">Notification</text>
+<rect x="668" y="176" width="200" height="36" rx="8" fill="#161b22" stroke="#66D8D2" stroke-opacity="0.8"/>
+<text x="768.0" y="198.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12.5" fill="#e6edf3" text-anchor="middle">Analytics · BigQuery</text>
+<text x="32" y="226" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#8b949e">reserve · capture · release · outbox · at-least-once · idempotent consumers</text>
+</svg>
