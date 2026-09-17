@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 56" width="900" height="56" role="img" aria-label="TECH STACK">
+<defs><linearGradient id="l" x1="0" x2="1"><stop offset="0" stop-color="#66D8D2" stop-opacity="0"/><stop offset="0.5" stop-color="#66D8D2" stop-opacity="0.8"/><stop offset="1" stop-color="#66D8D2" stop-opacity="0"/></linearGradient></defs>
+<text x="450.0" y="30" font-family="Segoe UI,Helvetica,Arial,sans-serif" font-size="22" font-weight="700" letter-spacing="4" fill="#66D8D2" text-anchor="middle">TECH STACK</text>
+<rect x="250" y="44" width="400" height="2" fill="url(#l)"/>
+</svg>
